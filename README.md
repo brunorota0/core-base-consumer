@@ -1,5 +1,5 @@
 # Introduction 
-We are built it ECMAScript and we contain the basic functionality to define our components. This module will handle DOM interaction with a Renderer. We focus on getting the best perfomance we can by managing the current use of virtual memory.
+Consumer of RobotJS Core Base
 
 # Getting Started
 1) Set the core base project as a library:
