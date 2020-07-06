@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "lib",
+    "strict": true
+  },
+  "typeRoots": [
+    "./node_modules/robotjscorebase/src",
+    "./node_modules/@types"
+  ]
+}
