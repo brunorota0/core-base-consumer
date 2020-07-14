@@ -6,6 +6,7 @@ Consumer of RobotJS Core Base
     - Go to the core base project.
     - Put on the console: "npm link".
     - Back to the consumer and put in the console: "npm link [name of linked project]". In this case: "npm link robotjscorebase".
+    - If is necessary, run "tsc" command to compile index.ts file.
 2) Run the file index.js with node in the console: Ex. -> node index.js
 
 # Build and Test
